@@ -70,6 +70,8 @@ function myAverage (a,b,c,d){
 }
 var theResult = myAverage(2,4,6,8);
 console.log(' once again, the average is : ' + theResult);
+
+
 // again
 
 function theAverage(a,b){
